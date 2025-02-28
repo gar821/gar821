@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+
+Here is my [personal repo] (https://github.com/gar821/gar821.github.io)
+And here are [my projects] (https://github.com/gar821/gar821.github.io/blob/main/projects.html)
 <!--
 **gar821/gar821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
