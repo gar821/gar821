@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello! My name is Joshua, and I am a student who enjoys to learn web dev and experiment with projects
+Hello! My name is Joshua, and I am a student who enjoys to learn, and  i like to experiment with projects
 
 Here is my [Personal repo](https://github.com/gar821/gar821.github.io)
 
