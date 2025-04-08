@@ -9,4 +9,4 @@ And here are [My projects](https://github.com/gar821/gar821.github.io/blob/main/
 
 
 - 🔭 I’m currently not working on anything
-- 🌱 I’m currently learning html/css/js
+- 🌱 I’m currently learning html/css/js (js)
